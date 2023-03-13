@@ -1,12 +1,11 @@
 # blackjack
 
-Quick start:
+Rules:
 
 ```
-$ npm install
-$ npm start
+$ IF YOU GET SUM OF 2 CARDS IS 21 THEN YOU WON THE GAME  
+$ IF YOU DONT GET SUM OF 2 CARDS <21 YOU CAN DRAW A NEW CARD.
+$ AND IF SUM OF TWO CARDS >21 , YOU ARE OUT OF THE GAME. 
 ````
-
-- [courses](https://scrimba.com/allcourses)
 
 Happy Coding!
