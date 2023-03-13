@@ -1,7 +1,7 @@
-let player = {
-    name: "Mohit",
-    chips: 200
-}
+// let player = {
+//     name: "Mohit",
+//     chips: 200
+// }
 
 let cards = []
 let sum = 0
@@ -13,7 +13,7 @@ let sumEl = document.getElementById("sum-el")
 let cardsEl = document.getElementById("cards-el")
 let playerEl = document.getElementById("player-el")
 
-playerEl.textContent = player.name + ": $" + player.chips
+// playerEl.textContent = player.name + ": $" + player.chips
 
 function getRandomCard() {
     let randomNumber = Math.floor( Math.random()*13 ) + 1
